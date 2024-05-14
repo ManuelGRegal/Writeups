@@ -1079,7 +1079,7 @@ foque@debian:~$ cat user.txt
 69db9f78edf072e03870a53b90aff647
 ```
 
-## Resumen vías elevación privilegios
+## Resumen
 
 ```mermaid
 ---
