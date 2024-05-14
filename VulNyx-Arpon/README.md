@@ -1062,21 +1062,20 @@ alpine        latest    05455a08881e   3 months ago    7.38MB
 hello-world   latest    d2c94e258dcb   12 months ago   13.3kB
 foque@debian:~$ docker run -it --rm -v /:/mnt alpine
 / # cat /mnt/root/root.txt 
-69db9f78edf072e03870a53b90aff647
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
 ### user.txt
 
 ```bash
 foque@debian:~$ cat user.txt 
-4ce7368ace8130a6df2b47080dcdc16c
-```
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx```
 
 ### root.txt
 
 ```bash
 / # cat /mnt/root/root.txt 
-69db9f78edf072e03870a53b90aff647
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
 ## Resumen
