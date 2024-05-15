@@ -1082,7 +1082,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ```mermaid
 ---
-title: Dump
+title: Arpon
 ---
 sequenceDiagram
     atacante-->>www-data: Enumeración SSH<br>Enumeración HTTP<br>File Upload Vulnerability: reverse shell rev.phar
@@ -1093,7 +1093,7 @@ sequenceDiagram
 
 ```mermaid
 ---
-title: Dump
+title: Arpon
 ---
 flowchart TD
 A[atacante] -- Enumeración SSH<br>Enumeración HTTP<br>File Upload Vulnerability: reverse shell rev.phar --> B[www-data]
